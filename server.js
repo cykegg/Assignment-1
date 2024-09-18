@@ -9,7 +9,7 @@
 * Student Name: Ahnaf Abrar Khan
 * Student Email: aakhan82@myseneca.ca
 * Course/Section: WEB422/ZAA
-* Deployment URL: https://www.your.assignment.com
+* Deployment URL: https://assignment-1-dgiu4e552-ahnaf-khans-projects-bd989811.vercel.app
 *
 *****************************************************************************/
 
